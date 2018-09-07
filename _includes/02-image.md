@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+# very cool stuff
+
+![Image of a no sure](https://memeexplorer.com/cache/550.jpg)
